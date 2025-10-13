@@ -1,0 +1,15 @@
+/Users/camerondavis/Desktop/mis221/Falll2025Repos/battingavg/bin/Debug/net9.0/battingavg
+/Users/camerondavis/Desktop/mis221/Falll2025Repos/battingavg/bin/Debug/net9.0/battingavg.deps.json
+/Users/camerondavis/Desktop/mis221/Falll2025Repos/battingavg/bin/Debug/net9.0/battingavg.runtimeconfig.json
+/Users/camerondavis/Desktop/mis221/Falll2025Repos/battingavg/bin/Debug/net9.0/battingavg.dll
+/Users/camerondavis/Desktop/mis221/Falll2025Repos/battingavg/bin/Debug/net9.0/battingavg.pdb
+/Users/camerondavis/Desktop/mis221/Falll2025Repos/battingavg/obj/Debug/net9.0/battingavg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondavis/Desktop/mis221/Falll2025Repos/battingavg/obj/Debug/net9.0/battingavg.AssemblyInfoInputs.cache
+/Users/camerondavis/Desktop/mis221/Falll2025Repos/battingavg/obj/Debug/net9.0/battingavg.AssemblyInfo.cs
+/Users/camerondavis/Desktop/mis221/Falll2025Repos/battingavg/obj/Debug/net9.0/battingavg.csproj.CoreCompileInputs.cache
+/Users/camerondavis/Desktop/mis221/Falll2025Repos/battingavg/obj/Debug/net9.0/battingavg.sourcelink.json
+/Users/camerondavis/Desktop/mis221/Falll2025Repos/battingavg/obj/Debug/net9.0/battingavg.dll
+/Users/camerondavis/Desktop/mis221/Falll2025Repos/battingavg/obj/Debug/net9.0/refint/battingavg.dll
+/Users/camerondavis/Desktop/mis221/Falll2025Repos/battingavg/obj/Debug/net9.0/battingavg.pdb
+/Users/camerondavis/Desktop/mis221/Falll2025Repos/battingavg/obj/Debug/net9.0/battingavg.genruntimeconfig.cache
+/Users/camerondavis/Desktop/mis221/Falll2025Repos/battingavg/obj/Debug/net9.0/ref/battingavg.dll

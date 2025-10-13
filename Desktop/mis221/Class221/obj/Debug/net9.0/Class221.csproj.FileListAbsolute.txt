@@ -1,0 +1,15 @@
+/Users/camerondavis/Desktop/mis221/Class221/bin/Debug/net9.0/Class221
+/Users/camerondavis/Desktop/mis221/Class221/bin/Debug/net9.0/Class221.deps.json
+/Users/camerondavis/Desktop/mis221/Class221/bin/Debug/net9.0/Class221.runtimeconfig.json
+/Users/camerondavis/Desktop/mis221/Class221/bin/Debug/net9.0/Class221.dll
+/Users/camerondavis/Desktop/mis221/Class221/bin/Debug/net9.0/Class221.pdb
+/Users/camerondavis/Desktop/mis221/Class221/obj/Debug/net9.0/Class221.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondavis/Desktop/mis221/Class221/obj/Debug/net9.0/Class221.AssemblyInfoInputs.cache
+/Users/camerondavis/Desktop/mis221/Class221/obj/Debug/net9.0/Class221.AssemblyInfo.cs
+/Users/camerondavis/Desktop/mis221/Class221/obj/Debug/net9.0/Class221.csproj.CoreCompileInputs.cache
+/Users/camerondavis/Desktop/mis221/Class221/obj/Debug/net9.0/Class221.sourcelink.json
+/Users/camerondavis/Desktop/mis221/Class221/obj/Debug/net9.0/Class221.dll
+/Users/camerondavis/Desktop/mis221/Class221/obj/Debug/net9.0/refint/Class221.dll
+/Users/camerondavis/Desktop/mis221/Class221/obj/Debug/net9.0/Class221.pdb
+/Users/camerondavis/Desktop/mis221/Class221/obj/Debug/net9.0/Class221.genruntimeconfig.cache
+/Users/camerondavis/Desktop/mis221/Class221/obj/Debug/net9.0/ref/Class221.dll
