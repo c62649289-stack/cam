@@ -1,0 +1,5 @@
+/Users/camerondavis/Desktop/mis221/Lab6/obj/Debug/net9.0/Lab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondavis/Desktop/mis221/Lab6/obj/Debug/net9.0/Lab6.AssemblyInfoInputs.cache
+/Users/camerondavis/Desktop/mis221/Lab6/obj/Debug/net9.0/Lab6.AssemblyInfo.cs
+/Users/camerondavis/Desktop/mis221/Lab6/obj/Debug/net9.0/Lab6.csproj.CoreCompileInputs.cache
+/Users/camerondavis/Desktop/mis221/Lab6/obj/Debug/net9.0/Lab6.sourcelink.json
