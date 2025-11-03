@@ -1,0 +1,15 @@
+/Users/camerondavis/Desktop/mis221/PA4Final/bin/Debug/net9.0/PA4Final
+/Users/camerondavis/Desktop/mis221/PA4Final/bin/Debug/net9.0/PA4Final.deps.json
+/Users/camerondavis/Desktop/mis221/PA4Final/bin/Debug/net9.0/PA4Final.runtimeconfig.json
+/Users/camerondavis/Desktop/mis221/PA4Final/bin/Debug/net9.0/PA4Final.dll
+/Users/camerondavis/Desktop/mis221/PA4Final/bin/Debug/net9.0/PA4Final.pdb
+/Users/camerondavis/Desktop/mis221/PA4Final/obj/Debug/net9.0/PA4Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondavis/Desktop/mis221/PA4Final/obj/Debug/net9.0/PA4Final.AssemblyInfoInputs.cache
+/Users/camerondavis/Desktop/mis221/PA4Final/obj/Debug/net9.0/PA4Final.AssemblyInfo.cs
+/Users/camerondavis/Desktop/mis221/PA4Final/obj/Debug/net9.0/PA4Final.csproj.CoreCompileInputs.cache
+/Users/camerondavis/Desktop/mis221/PA4Final/obj/Debug/net9.0/PA4Final.sourcelink.json
+/Users/camerondavis/Desktop/mis221/PA4Final/obj/Debug/net9.0/PA4Final.dll
+/Users/camerondavis/Desktop/mis221/PA4Final/obj/Debug/net9.0/refint/PA4Final.dll
+/Users/camerondavis/Desktop/mis221/PA4Final/obj/Debug/net9.0/PA4Final.pdb
+/Users/camerondavis/Desktop/mis221/PA4Final/obj/Debug/net9.0/PA4Final.genruntimeconfig.cache
+/Users/camerondavis/Desktop/mis221/PA4Final/obj/Debug/net9.0/ref/PA4Final.dll
