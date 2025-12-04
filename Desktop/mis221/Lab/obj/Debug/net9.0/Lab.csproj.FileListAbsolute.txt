@@ -1,0 +1,15 @@
+/Users/camerondavis/Desktop/mis221/Lab/bin/Debug/net9.0/Lab
+/Users/camerondavis/Desktop/mis221/Lab/bin/Debug/net9.0/Lab.deps.json
+/Users/camerondavis/Desktop/mis221/Lab/bin/Debug/net9.0/Lab.runtimeconfig.json
+/Users/camerondavis/Desktop/mis221/Lab/bin/Debug/net9.0/Lab.dll
+/Users/camerondavis/Desktop/mis221/Lab/bin/Debug/net9.0/Lab.pdb
+/Users/camerondavis/Desktop/mis221/Lab/obj/Debug/net9.0/Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondavis/Desktop/mis221/Lab/obj/Debug/net9.0/Lab.AssemblyInfoInputs.cache
+/Users/camerondavis/Desktop/mis221/Lab/obj/Debug/net9.0/Lab.AssemblyInfo.cs
+/Users/camerondavis/Desktop/mis221/Lab/obj/Debug/net9.0/Lab.csproj.CoreCompileInputs.cache
+/Users/camerondavis/Desktop/mis221/Lab/obj/Debug/net9.0/Lab.sourcelink.json
+/Users/camerondavis/Desktop/mis221/Lab/obj/Debug/net9.0/Lab.dll
+/Users/camerondavis/Desktop/mis221/Lab/obj/Debug/net9.0/refint/Lab.dll
+/Users/camerondavis/Desktop/mis221/Lab/obj/Debug/net9.0/Lab.pdb
+/Users/camerondavis/Desktop/mis221/Lab/obj/Debug/net9.0/Lab.genruntimeconfig.cache
+/Users/camerondavis/Desktop/mis221/Lab/obj/Debug/net9.0/ref/Lab.dll

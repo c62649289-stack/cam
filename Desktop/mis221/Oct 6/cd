@@ -1,0 +1,89 @@
+//main
+const int MAX_BOOKS = 100
+string[] titles = new string[MAX_BOOKS];kaa
+sting[] authors = new
+int[] pageCounts= new int[]
+int count = GetAllBooks(titles);
+PrintAllBooks(titles,count, authors, pageCounts``);
+
+cw("\n\nSorted:");
+Sort(titles, count)
+PrintAllBooks(titles,count)
+
+
+cw ("Enter the name of your book or update ehich book")
+sting badBook = console.ReadLine();
+int foundIndex = FindBook(titles,count,badBook);
+if (foundIndex != -1)
+{
+	cw ("what should title be");
+	titles[foundIndex]= console.ReadLine();
+}
+else
+{
+	cw(Book not found)
+}
+cw(\n)
+//end main
+
+static int GetAllBooks(string[] titles, sting[] authors, int[] pageCounts) //arrays sent by value act as though it is passed by reference
+{
+	int count = 0;
+	Console.Writeline("Enter the title, STOP to stop");
+	string title = Console.ReadLine();
+	while (title.ToUpper() != "STOP")
+	{
+		titles[count] = title;
+		cw(who is the authors);
+		authors[count] = CR
+		cw(how many pages are the book);
+		count++;
+		Console.WriteLine("Enter the title, STOP to stop")
+		title = Console.ReadLine();
+	}
+	return count;
+}
+
+static void PrintAllBooks(string[] titles, int count)
+{
+	for (int i = 0; i < count; i++; )
+	{
+		System.Console.WriteLine (titles[i]);
+	}
+}
+
+static void Sort(string[] titles, int count)
+{
+	for(int i = 0; i < count -1; i++)
+	{
+		int min = i; // assume i is th esmall
+		for(int j = i+1; j < count; j++ )
+		{
+			if(titles[min].CompareTo(titles[j]) > 0)
+			{
+				min = j;
+			}
+		}
+		if (min !=i)
+		{
+			swap(titles,min,i);
+		}
+	}
+}
+static void swap(string[] titles, int x, int y)
+{
+	string temp = values[x];
+	values[x] = values[y];
+	values[y] = temp;
+}
+static int FindBook(string[] titles, int count)
+{
+	for (int i = 0; i < count; i++)
+	{
+		if(searhVal.ToUpper() == titles[i].ToUpper())
+		{
+			return i; //index of matching title
+		}
+	}
+	return -1; //send back -1 if no book is found
+}

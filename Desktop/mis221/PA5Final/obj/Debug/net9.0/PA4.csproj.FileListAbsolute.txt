@@ -1,0 +1,10 @@
+/Users/camerondavis/Desktop/mis221/PA4/obj/Debug/net9.0/PA4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondavis/Desktop/mis221/PA4/obj/Debug/net9.0/PA4.AssemblyInfoInputs.cache
+/Users/camerondavis/Desktop/mis221/PA4/obj/Debug/net9.0/PA4.AssemblyInfo.cs
+/Users/camerondavis/Desktop/mis221/PA4/obj/Debug/net9.0/PA4.csproj.CoreCompileInputs.cache
+/Users/camerondavis/Desktop/mis221/PA4/obj/Debug/net9.0/PA4.sourcelink.json
+/Users/camerondavis/Desktop/mis221/PA5Final/obj/Debug/net9.0/PA4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondavis/Desktop/mis221/PA5Final/obj/Debug/net9.0/PA4.AssemblyInfoInputs.cache
+/Users/camerondavis/Desktop/mis221/PA5Final/obj/Debug/net9.0/PA4.AssemblyInfo.cs
+/Users/camerondavis/Desktop/mis221/PA5Final/obj/Debug/net9.0/PA4.csproj.CoreCompileInputs.cache
+/Users/camerondavis/Desktop/mis221/PA5Final/obj/Debug/net9.0/PA4.sourcelink.json

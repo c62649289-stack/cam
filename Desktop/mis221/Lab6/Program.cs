@@ -58,6 +58,8 @@ System.Console.WriteLine(newCar.ToString());
 Console.WriteLine("How many miles are left in the tank?");
 int newMiles = int.Parse(Console.ReadLine());
 
+
+
 newCar.SetMiles(newMiles);
 
 for (int i = 0; i < 20; i++)

@@ -10,7 +10,7 @@ namespace Lab6
         private int remainingMiles;
         private int speed;
 
-
+// the purpose of a consturctor is to define the above section into methods that can return different values.
         public Car(string carMake, string carModel)
         {
             make = carMake;

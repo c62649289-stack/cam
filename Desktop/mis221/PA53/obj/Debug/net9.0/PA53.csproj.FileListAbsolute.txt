@@ -1,0 +1,15 @@
+/Users/camerondavis/Desktop/mis221/PA53/bin/Debug/net9.0/PA53
+/Users/camerondavis/Desktop/mis221/PA53/bin/Debug/net9.0/PA53.deps.json
+/Users/camerondavis/Desktop/mis221/PA53/bin/Debug/net9.0/PA53.runtimeconfig.json
+/Users/camerondavis/Desktop/mis221/PA53/bin/Debug/net9.0/PA53.dll
+/Users/camerondavis/Desktop/mis221/PA53/bin/Debug/net9.0/PA53.pdb
+/Users/camerondavis/Desktop/mis221/PA53/obj/Debug/net9.0/PA53.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondavis/Desktop/mis221/PA53/obj/Debug/net9.0/PA53.AssemblyInfoInputs.cache
+/Users/camerondavis/Desktop/mis221/PA53/obj/Debug/net9.0/PA53.AssemblyInfo.cs
+/Users/camerondavis/Desktop/mis221/PA53/obj/Debug/net9.0/PA53.csproj.CoreCompileInputs.cache
+/Users/camerondavis/Desktop/mis221/PA53/obj/Debug/net9.0/PA53.sourcelink.json
+/Users/camerondavis/Desktop/mis221/PA53/obj/Debug/net9.0/PA53.dll
+/Users/camerondavis/Desktop/mis221/PA53/obj/Debug/net9.0/refint/PA53.dll
+/Users/camerondavis/Desktop/mis221/PA53/obj/Debug/net9.0/PA53.pdb
+/Users/camerondavis/Desktop/mis221/PA53/obj/Debug/net9.0/PA53.genruntimeconfig.cache
+/Users/camerondavis/Desktop/mis221/PA53/obj/Debug/net9.0/ref/PA53.dll

@@ -1,0 +1,15 @@
+/Users/camerondavis/Desktop/mis221/Oct8/bin/Debug/net9.0/Oct8
+/Users/camerondavis/Desktop/mis221/Oct8/bin/Debug/net9.0/Oct8.deps.json
+/Users/camerondavis/Desktop/mis221/Oct8/bin/Debug/net9.0/Oct8.runtimeconfig.json
+/Users/camerondavis/Desktop/mis221/Oct8/bin/Debug/net9.0/Oct8.dll
+/Users/camerondavis/Desktop/mis221/Oct8/bin/Debug/net9.0/Oct8.pdb
+/Users/camerondavis/Desktop/mis221/Oct8/obj/Debug/net9.0/Oct8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondavis/Desktop/mis221/Oct8/obj/Debug/net9.0/Oct8.AssemblyInfoInputs.cache
+/Users/camerondavis/Desktop/mis221/Oct8/obj/Debug/net9.0/Oct8.AssemblyInfo.cs
+/Users/camerondavis/Desktop/mis221/Oct8/obj/Debug/net9.0/Oct8.csproj.CoreCompileInputs.cache
+/Users/camerondavis/Desktop/mis221/Oct8/obj/Debug/net9.0/Oct8.sourcelink.json
+/Users/camerondavis/Desktop/mis221/Oct8/obj/Debug/net9.0/Oct8.dll
+/Users/camerondavis/Desktop/mis221/Oct8/obj/Debug/net9.0/refint/Oct8.dll
+/Users/camerondavis/Desktop/mis221/Oct8/obj/Debug/net9.0/Oct8.pdb
+/Users/camerondavis/Desktop/mis221/Oct8/obj/Debug/net9.0/Oct8.genruntimeconfig.cache
+/Users/camerondavis/Desktop/mis221/Oct8/obj/Debug/net9.0/ref/Oct8.dll

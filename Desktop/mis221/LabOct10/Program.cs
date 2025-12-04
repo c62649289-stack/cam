@@ -1,58 +1,114 @@
-﻿// main
-Cities();
-// end main
+﻿//main
+string userChoice = GetMenuChoice();
 
-static void Cities()
+while (userChoice != "3")
 {
-    string[] = { "Daphne", "Huntsville", "Montgomery", "Gadsten", "Mobile" };
-    //string[] cities = new string[5];
-    DisplayCities(Cities);// writing out every cities
-
-    Swap(cities, 2, 3);// swaping mont and gadsten
-    System.Console.WriteLine();
-
-    DisplayCities(cities);//write agter swap
+    RouteEm(userChoice);
+    userChoice = GetMenuChoice();
 }
+SayGoodbye();
 
-static void DisplayCities(string[] cities)
-{
-    // what goes
-    for (int i = 0; i < cities.Length; i++)// not doing count because array is fully filled
+//end
+
+
+    static string GetMenuChoice()
     {
-        System.Console.WriteLine($"City name: {cities[i]}");
+        Console.Clear();
+        System.Console.WriteLine("Please select a menu option (1-3)");
+        System.Console.WriteLine("1. Display a deck of cards\n2. Display shuffled deck of cards\n3. Exit");
+        return Console.ReadLine();
     }
-}
 
-static void Swap( string[] cities, int a, int b)
-{
-    string temp = cities[a];
-    cities[a] = cities[b];
-    cities[b] = temp;
-
-}
-
-// main to generate rnd number for shuffled deck
-RandoGuess();
-
-static void RandoGuess()
-{
-    int rndNum = GetRandomNum(1, 100);
-
-    System.Console.WriteLine("Guess a number");
-    int guessNum = int.Parse(Console.ReadLine());
-
-    if (rndNum == guessNum)
+    static void RouteEm(string userChoice)
     {
-        System.Console.WriteLine("Good job! You guessed it");
+        string[] deck = CreateDeck();
+        switch (userChoice)
+        {
+            case "1":
+                //Make method call here
+                DisplayCards(deck);
+                break;
+            case "2":
+                //Make method call here
+                CardShuffle();
+                DisplayCards(deck);
+                break;
+            default:
+                System.Console.WriteLine("Invalid menu choice...try again");
+                break;
+        }
+        Pause();
     }
-    else
-    {
-        System.Console.WriteLine($"Sorry, the number was{rndNum}");
-    }
-}
 
-static int GetRandomNum(int lower, int upper)
-{
-    Random rnd = new Random();
-    return rnd.Next(lower, upper + 1);
-}
+    static string[] CreateDeck()
+    {
+        // Build and return a full deck of 52 cards
+        // Each card should combine a value and a suit
+        // (e.g., "Ace of Hearts", "Ten of Spades", etc.)
+        // Use the provided suits and values arrays
+
+        string[] suits = { "Heart", "Diamond", "Club", "Spade" };
+        string[] values = { "Ace", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King" };
+
+        string[] cards = new string[52];
+        int index = 0;
+
+        for (int s = 0; s < suits.Length; s++)
+        {
+            for (int v = 0; v < values.Length; v++)
+            {
+                cards[index] = value = " of " + suit;
+                index++;
+            }
+        }
+        return cards;
+
+        // Your code here
+
+
+    }
+
+    static void CardShuffle(string[] deck)
+    {
+        Random rnd = new Random();
+
+        for (int i = deck.Length - 1; i > 0; i--)
+        {
+            int j = rnd.Next(0, i + 1);
+            Swap(deck, i, j);
+        }
+        // Rearrange the elements in the deck so the order is different each time the program runs
+        // Your code here
+
+    }
+
+    //method to swap two cards
+    static void Swap(string[] deck, int x, int y)
+    {
+        string temp = deck[x];
+        deck[x] = deck[y];
+        deck[y] = temp;// swap logic here
+    }
+
+
+
+
+    static void DisplayCards(string[] cards)
+    {
+        for (int i = 0; i < cards.Length; i++)
+        {
+            System.Console.WriteLine((i + 1) + ". " + cards[i]);
+        }
+    }
+
+    static void SayGoodbye() //runs when the user exits the program
+    {
+        System.Console.WriteLine("Thanks for visiting, bye!");
+    }
+
+    static void Pause()
+    {
+        Console.WriteLine("Press any key to continue...");
+        Console.ReadKey(); //forces the program to "pause" enter the user selects any key
+        Console.Clear();
+    }

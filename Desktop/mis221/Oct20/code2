@@ -1,0 +1,11 @@
+using System.Collections.Concurrent;
+using Oct20;
+
+Book[] books = new Book[100];
+
+BookFile bookFile = new BookFile(books);
+bookFile.GetAllBooks();
+
+BookReport bookReport = new BookReport(books);
+bookReport.PrintAllBooks();
+bookReport.AverageNumPages();
